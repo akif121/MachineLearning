@@ -3,7 +3,6 @@
 """
 Created on Mon Mar 20 00:10:29 2017
 
-@author: Dinesh
 """
 ########## News API ########################################################
 from newsapi import NewsAPI
